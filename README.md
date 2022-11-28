@@ -1,7 +1,3 @@
-echo "# OkutDay" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/OkutDay/OkutDay.git
-git push -u origin main
+- Oi eu sou elcio
+- Gosto de programa
+- Estou aprendendo no alura
